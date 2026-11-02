@@ -1,6 +1,6 @@
 cask "focus-diff" do
-  version "1.4.0"
-  sha256 "31d9ebb8da962dc7823fa18c5c2ff64138e4f3187f7f3557a9f98f6449850d94"
+  version "1.5.0"
+  sha256 "2d47bd86d29c9558172cfc50d974e66617bc74bd32473b4e578d354777ac69ec"
 
   url "https://github.com/hyanmandian/focus-diff/releases/download/desktop-v#{version}/Focus-Diff.dmg"
   name "Focus Diff"
